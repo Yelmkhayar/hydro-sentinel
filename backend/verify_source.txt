@@ -1,0 +1,8 @@
+ source_id |   code   |                label                | source_type |    provider     |                description                 |          created_at           
+-----------+----------+-------------------------------------+-------------+-----------------+--------------------------------------------+-------------------------------
+         1 | OBS      | Observations                        | observed    | ABHS            |                                            | 2026-02-10 14:03:04.723763+00
+         2 | AROME    | Pr├â┬⌐visions AROME                   | forecast    | M├â┬⌐t├â┬⌐o / AROME |                                            | 2026-02-10 14:03:04.723763+00
+         3 | ECMWF    | Pr├â┬⌐visions ECMWF                   | forecast    | ECMWF           |                                            | 2026-02-10 14:03:04.723763+00
+         5 | ABHS_RES | R├â┬⌐sultats ABHS (barrages/stations) | simulated   | ABHS            | R├â┬⌐sultats consolid├â┬⌐s (m├â┬⌐tier / mod├â┬¿le) | 2026-02-11 10:40:00.944755+00
+(4 rows)
+

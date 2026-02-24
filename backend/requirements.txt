@@ -1,0 +1,70 @@
+affine @ file:///home/conda/feedstock_root/build_artifacts/affine_1733762038348/work
+aiosqlite==0.19.0
+alembic==1.13.1
+annotated-types==0.7.0
+anyio==4.12.1
+async-timeout==5.0.1
+asyncpg==0.31.0
+attrs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_attrs_1764875182/work
+bcrypt==5.0.0
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1767500808759/work/certifi
+cffi==2.0.0
+click @ file:///D:/bld/bld/rattler-build_click_1764518654/work
+click-plugins @ file:///home/conda/feedstock_root/build_artifacts/click-plugins_1750848229740/work
+cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1733749956636/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+cryptography==46.0.5
+dnspython==2.8.0
+ecdsa==0.19.1
+email-validator==2.3.0
+et_xmlfile==2.0.0
+fastapi==0.109.2
+GDAL==3.12.1
+GeoAlchemy2==0.17.1
+geopandas==1.1.2
+greenlet==3.3.1
+h11==0.16.0
+hecdss==0.1.29
+httpcore==1.0.9
+httpx==0.26.0
+idna==3.11
+iniconfig==2.3.0
+Mako==1.3.10
+MarkupSafe==3.0.3
+numpy==1.26.4
+openpyxl==3.1.5
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+pandas @ file:///D:/bld/bld/rattler-build_pandas_1769076324/work
+passlib==1.7.4
+pluggy==1.6.0
+psycopg @ file:///home/conda/feedstock_root/build_artifacts/psycopg-split_1765052722507/work/psycopg
+psycopg-binary==3.3.2
+psycopg-c @ file:///D:/bld/psycopg-split_1765052777918/work/psycopg-c
+pyasn1==0.6.2
+pycparser==3.0
+pydantic==2.6.1
+pydantic-settings==2.2.1
+pydantic_core==2.16.2
+pydsstools==2.4.0
+pyhecdss==1.5.12
+pyogrio==0.12.1
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1769003998/work
+pyproj==3.7.2
+pytest==8.0.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+python-dotenv==1.2.1
+python-jose==3.3.0
+python-multipart==0.0.9
+RapidFuzz==3.14.3
+rasterio==1.4.4
+rsa==4.9.1
+shapely==2.0.7
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+sniffio==1.3.1
+snuggs @ file:///home/conda/feedstock_root/build_artifacts/snuggs_1733818638588/work
+SQLAlchemy==2.0.27
+starlette==0.36.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1765719872007/work
+Unidecode==1.4.0
+uvicorn==0.27.1

@@ -1,0 +1,17 @@
+# Python & Systèmes
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# DONNÉES VOLUMINEUSES (La cause de la lenteur)
+Data/data_raw/
+Data/observed_flow/
+*.csv
+*.xls
+*.xlsx
+
+# Frontend & Backend modules
+node_modules/
+dist/
+.env

@@ -1,0 +1,1 @@
+Navigate to http://localhost:8080/data-management and tell me what the developer console says. If there's an error, identify the file and line number.
