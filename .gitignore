@@ -15,3 +15,15 @@ Data/observed_flow/
 node_modules/
 dist/
 .env
+
+# Databases & Logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Temporary and Output files
+Data/outputs/
+*.txt
+!requirements.txt
+!.env.example
